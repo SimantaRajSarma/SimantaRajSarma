@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SimantaRajSarma
-- 👀 I’m interested in Technology, Specially in AI.
+- 👀 I'm a Tech Enthusiasts specifically in AI/ML.
 - 🌱 I’m currently learning Android Application Development
 - 💞️ I’m looking to collaborate on twitter or LinkedIn 
 - 📫 How to reach me ...
