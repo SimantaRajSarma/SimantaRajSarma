@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @SimantaRajSarma
 - 👀 I'm a Tech Enthusiasts specifically in AI/ML.
-- 🌱 I’m currently learning Android Application Development
+- My Skills:
+-  MERN Stack Development
+-  Android Application Development
+-  
 - 💞️ I’m looking to collaborate on twitter or LinkedIn 
 - 📫 How to reach me ...
 -        --Twitter Username :- @SimantaRajS
