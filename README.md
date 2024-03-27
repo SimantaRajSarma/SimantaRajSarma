@@ -6,7 +6,7 @@
 -  
 - 💞️ I’m looking to collaborate on twitter or LinkedIn 
 - 📫 How to reach me ...
--        --Twitter Username :- @SimantaRajS
+-        --Twitter Username :- @Simanta_R_Sarma
 -        --LinkedIn profile : Simanta Raj Sarma
 
 - I also do Freelancing, you can hire me for Web and Development related work
