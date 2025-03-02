@@ -1,5 +1,9 @@
 # Simanta Raj Sarma  
 
+![SimantaRajSarma's Stats](https://github-readme-stats.vercel.app/api?username=SimantaRajSarma&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
+![SimantaRajSarma's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimantaRajSarma&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
+
+
 ## About Me  
 I am a full-stack web and app developer specializing in education technology. I work on web and mobile applications that enhance learning experiences. My focus is on scalable platforms, interactive UI/UX, and backend optimization.
 
@@ -45,10 +49,5 @@ I am available for **web and mobile app development** projects.
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/realsima)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simanta-raj-sarma-235050235)  
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:simantarajsarma07@gmail.com)  
-
-
-## GitHub Stats  
-![SimantaRajSarma's Stats](https://github-readme-stats.vercel.app/api?username=SimantaRajSarma&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
-![SimantaRajSarma's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimantaRajSarma&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 
 ## Have a great day!  
