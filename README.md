@@ -2,8 +2,7 @@
 
 ![SimantaRajSarma's Stats](https://github-readme-stats.vercel.app/api?username=SimantaRajSarma&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
 ![SimantaRajSarma's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimantaRajSarma&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
-
-
+![SimantaRajSarma's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SimantaRajSarma&theme=blueberry&hide_border=true)
 ## About Me  
 I am a full-stack web and app developer specializing in education technology. I work on web and mobile applications that enhance learning experiences. My focus is on scalable platforms, interactive UI/UX, and backend optimization.
 
